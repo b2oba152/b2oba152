@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25"/> About Me
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> About Me
 
 ```typescript
 const diarra: Developer = {
@@ -30,9 +30,9 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> Tech Stack
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> Languages
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/> Languages
 
 ![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,7 +43,7 @@ const diarra: Developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> Frameworks & Libraries
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/> Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-203a43?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-203a43?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -51,7 +51,7 @@ const diarra: Developer = {
 ![Laravel](https://img.shields.io/badge/Laravel-203a43?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Angular](https://img.shields.io/badge/Angular-203a43?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" height="20"/> Databases & DevOps
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" height="20" style="vertical-align: middle; margin-right: 8px;"/> Databases & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/SQL-2c5364?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Docker](https://img.shields.io/badge/Docker-2c5364?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -60,7 +60,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25"/> What I'm Working On
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> What I'm Working On
 
 - **Currently on a mission** — building a client application
 - Continuously improving my DevOps workflow
@@ -86,7 +86,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25"/> Get in Touch
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"/> Get in Touch
 
 > *Links coming soon — in the meantime, find me directly on GitHub.*
 
