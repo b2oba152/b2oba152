@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-[![FR](https://img.shields.io/badge/FR-Français-0f2027?style=for-the-badge&labelColor=0f2027)](README.md)&nbsp;&nbsp;[![EN](https://img.shields.io/badge/EN-English-2c5364?style=for-the-badge&labelColor=2c5364)](README.en.md)
-
-</div>
-
 <br/>
 
 <div align="center">
