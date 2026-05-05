@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Diarra%20Boubacar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Développeur%20Freelance%20Full-Stack&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Diarra%20Boubacar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![FR](https://img.shields.io/badge/FR-Français-0f2027?style=for-the-badge&labelColor=0f2027)](README.md)&nbsp;&nbsp;[![EN](https://img.shields.io/badge/EN-English-2c5364?style=for-the-badge&labelColor=2c5364)](README.en.md)
 
 </div>
 
@@ -8,31 +14,31 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=620&lines=Développeur+Full-Stack+%7C+Freelance;Python+%7C+JavaScript+%7C+Laravel;DevOps+%7C+Docker+%7C+Linux;Actuellement+en+mission+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Freelance;Python+%7C+JavaScript+%7C+Laravel;DevOps+%7C+Docker+%7C+Linux;Currently+on+a+mission+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="22"/> À propos de moi
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="22"/> About Me
 
 ```typescript
 const diarra: Developer = {
-  nom        : "Diarra Boubacar",
+  name       : "Diarra Boubacar",
   alias      : "b2oba152",
-  statut     : "🟢 Actuellement en mission",
-  rôle       : "Développeur Freelance Full-Stack",
-  localisation: "Afrique de l'Ouest",
-  passion    : ["Code propre", "Architecture scalable", "Automatisation"],
-  disponible : false,
+  status     : "🟢 Currently on a mission",
+  role       : "Freelance Full-Stack Developer",
+  location   : "West Africa",
+  passion    : ["Clean code", "Scalable architecture", "Automation"],
+  available  : false,
 };
 ```
 
 ---
 
-## <img src="https://cdn.simpleicons.org/visualstudiocode/ffffff" width="22"/> Stack Technique
+## <img src="https://cdn.simpleicons.org/visualstudiocode/ffffff" width="22"/> Tech Stack
 
-### <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="18"/> Langages
+### <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="18"/> Languages
 
 ![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,7 +49,7 @@ const diarra: Developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> Frameworks & Bibliothèques
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-203a43?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-203a43?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -51,7 +57,7 @@ const diarra: Developer = {
 ![Laravel](https://img.shields.io/badge/Laravel-203a43?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Angular](https://img.shields.io/badge/Angular-203a43?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> Bases de données & DevOps
+### <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> Databases & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/SQL-2c5364?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Docker](https://img.shields.io/badge/Docker-2c5364?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -60,7 +66,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="22"/> Statistiques GitHub
+## <img src="https://cdn.simpleicons.org/github/ffffff" width="22"/> GitHub Stats
 
 <div align="center">
 
@@ -78,17 +84,17 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/git/F05032" width="22"/> Ce sur quoi je travaille
+## <img src="https://cdn.simpleicons.org/git/F05032" width="22"/> What I'm Working On
 
-- **Actuellement en mission** — développement d'une application client
-- Amélioration continue de mon workflow DevOps
-- Veille permanente sur les nouvelles technos
+- **Currently on a mission** — building a client application
+- Continuously improving my DevOps workflow
+- Keeping up with the latest technologies
 
 ---
 
-## <img src="https://cdn.simpleicons.org/maildotru/ffffff" width="22"/> Me contacter
+## <img src="https://cdn.simpleicons.org/maildotru/ffffff" width="22"/> Get in Touch
 
-> *Les liens arrivent bientôt — en attendant, retrouvez-moi directement via GitHub.*
+> *Links coming soon — in the meantime, find me directly on GitHub.*
 
 <div align="center">
 
@@ -102,6 +108,6 @@ const diarra: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
-*"Le code est de la poésie écrite pour les machines."*
+*"Code is poetry written for machines."*
 
 </div>
