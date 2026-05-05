@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="22"/> About Me
+## 👤 About Me
 
 ```typescript
 const diarra: Developer = {
@@ -30,9 +30,9 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/visualstudiocode/ffffff" width="22"/> Tech Stack
+## 🛠️ Tech Stack
 
-### <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="18"/> Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,7 +43,7 @@ const diarra: Developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-203a43?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-203a43?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -51,7 +51,7 @@ const diarra: Developer = {
 ![Laravel](https://img.shields.io/badge/Laravel-203a43?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Angular](https://img.shields.io/badge/Angular-203a43?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> Databases & DevOps
+### 🗄️ Databases & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/SQL-2c5364?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Docker](https://img.shields.io/badge/Docker-2c5364?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -60,7 +60,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="22"/> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/git/F05032" width="22"/> What I'm Working On
+## 🚀 What I'm Working On
 
 - **Currently on a mission** — building a client application
 - Continuously improving my DevOps workflow
@@ -86,7 +86,7 @@ const diarra: Developer = {
 
 ---
 
-## <img src="https://cdn.simpleicons.org/maildotru/ffffff" width="22"/> Get in Touch
+## 📧 Get in Touch
 
 > *Links coming soon — in the meantime, find me directly on GitHub.*
 
